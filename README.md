@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Engineering Exercise 7
 
-## Getting Started
+  
 
-First, run the development server:
+## Developer Name: Eng Abdirahman Ai
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Group A
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+[GitHub Link](https://github.com/engai2025/Exercise_07_NextWithOpenrouterApi)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Result 1
+***
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+![AI Engineering Exercise 6](/app/images-output/result111.png)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+***
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+## Result 2
+***
+
+![AI Engineering Exercise 6](/app/images-output/result222.png)
+
+
+***
+
+
+
+## Result 3
+***
+
+![AI Engineering Exercise 6](/app/images-output/result33.png)
+
+
+***
+
+
+
+## Result 4
+***
+
+![AI Engineering Exercise 6](/app/images-output/result44.png)
+
+
+***
+ 
+
+
+ 
+
+## Code
+
+---
+
+## Programming Language Used
+
+---
+
+| Programming Language | Framework | Database |
+| :------------------- | :-------- | :------- |
+| Next.js with OpenRouter API with pinecone | 0 | mongodb |
+
+---
+
+## Task
+
+- [x] Done
+
+
